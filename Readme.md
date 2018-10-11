@@ -1,5 +1,7 @@
 # React Native Modaly
 
+![](demo.gif)
+
 ## Installation
 ```
 npm install react-native-modaly --save
