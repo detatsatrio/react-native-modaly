@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeModaly'
+
+include ':app'
